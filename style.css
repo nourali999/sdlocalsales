@@ -105,11 +105,11 @@ button[type="submit"]:hover {
 }
 
 .left {
-  width: 35%;
+  width: 90%;
 }
 
 .right {
-  width: 65%;
+  width: 10%;
 }
 
 /* Clear floats after the columns */
